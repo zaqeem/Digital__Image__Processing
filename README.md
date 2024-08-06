@@ -38,4 +38,4 @@ To set up the project environment, you need Python and several libraries. Follow
 1. **Clone the Repository:**
 
    ```bash
-          [(https://github.com/zaqeem/Digital__Image__Processing.git)]         
+          (https://github.com/zaqeem/Digital__Image__Processing.git)     
