@@ -31,11 +31,4 @@ This project includes implementations of common digital image processing techniq
 - **Image Transformations**: Perform operations such as scaling, rotation, and color space conversions.
 - **Image Analysis**: Techniques for object detection, feature extraction, and segmentation.
 
-## Installation
 
-To set up the project environment, you need Python and several libraries. Follow these steps:
-
-1. **Clone the Repository:**
-
-   ```bash
-          (https://github.com/zaqeem/Digital__Image__Processing.git)     
